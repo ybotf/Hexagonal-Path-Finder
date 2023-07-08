@@ -1,5 +1,5 @@
 # Hexagonal-Path-Finder
-Finding the treasures in a hexagonal map and the minimal distance from one point to another 
+Finding the treasures in a hexagonal map and the minimal distance from one point to another (Main code implementation on map.c)
 
 The tresure map is made out of hexagonal tiles:
 
@@ -36,3 +36,5 @@ Used Dijkstra's Algorithm to find the shortest path
 
 ## Part E
 Part E is an extention of part D but execpt the locations of all airports are known beforehand. This allows Part D's algorithm to find the minimum distance faster in average case.
+
+(Altered description written by William Sutherland, 2023)
