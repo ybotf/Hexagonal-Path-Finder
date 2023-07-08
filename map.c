@@ -9,8 +9,9 @@
     Functions in the task description to implement can
         be found here.
 
-    Code implemented by <toby>
+    Code implemented by <Toby Fung>
 */
+
 #include "map.h"
 #include "math.h"
 #include "stack.h"
