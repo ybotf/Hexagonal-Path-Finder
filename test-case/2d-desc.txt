@@ -1,0 +1,7 @@
+0 0 (Start point)
+4 3 (End point)
+5 4 (Map dimensions)
+0 0 0 0 0 (Map Line 1)
+0 0 0 0 0 (Map Line 2)
+0 0 0 0 0 (Map Line 3)
+0 0 0 0 0 (Map Line 4)

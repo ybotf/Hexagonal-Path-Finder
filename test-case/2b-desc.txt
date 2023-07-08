@@ -1,0 +1,5 @@
+5 4 (Map dimensions)
+3 0 0 -5 -10 (Map Line 1)
+0 100 -3 -5 -10 (Map Line 2)
+0 -4 -5 0 0 (Map Line 3)
+2 100 -3 0 0 (Map Line 4)

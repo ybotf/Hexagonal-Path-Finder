@@ -1,0 +1,6 @@
+4 (Number of points we are testing)
+0 0 (Point 1)
+1 2 (Point 2)
+-5 -10 (Point 3)
+4 3 (Point 4)
+5 4 (Dimensions of map)
