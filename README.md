@@ -1,5 +1,5 @@
 # Hexagonal-Path-Finder
-Finding the treasures in a hexagonal map and the minimal distance from one point to another (Main code implementation on map.c)
+Finding treasures in a hexagonal map and the minimal distance between one point to another (Main code implementation on map.c)
 
 The tresure map is made out of hexagonal tiles:
 
