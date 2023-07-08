@@ -33,3 +33,6 @@ The amount of time it takes to move to an adjacent point is determined by the cu
 - It takes 5 minutes to move from an airport or treasure to an adjacent point (treat like land).
 
 Used Dijkstra's Algorithm to find the shortest path
+
+## Part E
+Part E is an extention of part D but execpt the locations of all airports are known beforehand. This allows Part D's algorithm to find the minimum distance faster in average case.
